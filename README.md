@@ -1,6 +1,17 @@
 # Library Apps
 Final project upskilled academy
 
+# ERD
+![alt text](https://github.com/andikaopp/library-apps/blob/main/ERD.png?raw=true)
+
+# Design Microservices
+![alt text](https://github.com/andikaopp/library-apps/blob/main/diagram.png?raw=true)
+
+# Environment
+- Cloud : AWS EC2
+- Database : RDS
+- CI/CD : Github Action
+
 # API Spesification
 
 ## Authentication
